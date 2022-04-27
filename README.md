@@ -1,2 +1,1 @@
-# shop
-Shop Indigo Electric
+# Shop Indigo Electric
